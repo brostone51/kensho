@@ -22,7 +22,7 @@ def get_first_anchor(soup: BeautifulSoup):
   """
   body = soup.find(name='div', class_='mw-parser-output')
   for p in body.find_all(name='p', recursive=False):
-    for a in p.find_all(name='a', href=re.compile('^(/wiki/).*$'), recursive=False):
+    for a in p.find_all(name='a', href=re.compile('^(/wiki/)[^#:]*$'), recursive=False):
       if a.text and a.text[0] != '(':
         return a
   return None
