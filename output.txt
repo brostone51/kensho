@@ -1,160 +1,158 @@
-Loop Failure:  Takht_Bhai_Tehsil -> Tehsil -> Administrative_division -> Sovereign_state -> Political_entity -> Collective_identity -> Belongingness -> Emotional -> Biological -> Natural_science -> Branches_of_science -> Science -> Latin -> Classical_language -> Language -> Spoken_language -> Language
-Failure:  FYI_(Canadian_TV_channel) -> Television_in_Canada -> Montreal -> Help:Pronunciation_respelling_key -> Pronunciation_respelling_for_English -> Pronunciation_respelling -> Nonce_word -> Lexeme -> Lexical_semantics -> Linguistics -> Science
-Failure:  Cydia_strobilella -> Moth -> Paraphyly -> Taxonomy_(general) -> Categorization -> Experience -> Consciousness -> Sentience -> Feeling -> Nominalization -> Linguistics
-~~~ Path Found:  Pandero_jarocho -> Tambourine -> Musical_instrument -> Music -> The_arts -> Creativity -> Idea -> Philosophy
-Failure:  David_Hartley_(musician) -> Sting_(musician) -> Order_of_the_British_Empire -> Order_of_chivalry -> Order_(honour) -> Honour -> British_English -> Standard_dialect -> Variety_(linguistics) -> Sociolinguistics -> Society -> Social_group -> Social_science -> Branches_of_science
-Loop Failure:  Old_Adobe_Barn -> Historic -> Ancient_Greek -> Greek_language -> Ancient_Greek
-Failure:  Samuel_Curtis_Johnson_Graduate_School_of_Management -> Graduate_school -> School -> Educational_institution -> Education -> Learning -> Understanding -> Psychological -> Science
-Failure:  Leon_Burke_III -> St._Louis,_Missouri -> Missouri -> U.S._state -> United_States -> Country -> Territory -> Administrative_division
-~~~ Path Found:  Szczepan_Grajczyk -> Rowing_(sport) -> Sport -> Competition -> Goal -> Idea -> Philosophy
-~~~ Path Found:  Charles_Lowe_(cricketer) -> Cricket -> Bat-and-ball_games -> Playing_field -> Sport -> Competition -> Goal -> Idea -> Philosophy
-Failure:  Erebia_lefebvrei -> Satyridae -> Subfamily -> Biological_classification -> Biology -> Natural_science
-Failure:  Gal_Rasch%C3%A9 -> Saint_Petersburg -> List_of_cities_and_towns_in_Russia_by_population -> Types_of_inhabited_localities_in_Russia -> Soviet_Union -> Federalism -> Government -> State_(polity) -> Polity -> Collective_identity
-Failure:  Mollie_Lowery -> Los_Angeles -> Spanish_language -> Romance_languages -> Vulgar_Latin -> Sociolect -> Sociolinguistics
-Failure:  2005_European_Athletics_Indoor_Championships_%E2%80%93_Women%27s_3000_metres -> 2005_European_Athletics_Indoor_Championships -> Palacio_de_Deportes_de_la_Comunidad_de_Madrid -> Indoor_arena -> Theatre -> Performing_art -> Visual_arts -> Art#Forms,_genres,_media,_and_styles -> Human_behavior -> Energy_(psychological) -> Psychology -> Science
-Failure:  Faiyum_Light_Railway -> 750_mm_gauge_railways -> Narrow-gauge_railway -> Railway -> Transport -> Motion -> Physics -> Ancient_Greek_language -> Greek_language
-Failure:  Jennifer_Hines -> Opera_singer -> Theatre
-Failure:  Tris(8-hydroxyquinolinato)aluminium -> Chemical_compound -> Chemical_substance -> Matter -> Classical_physics -> Physics
-Failure:  Wilton_Windmill -> Windmill -> Wind_power -> Wind -> Gas -> State_of_matter -> Physics
-Failure:  Manolo_Garc%C3%ADa -> Poblenou -> Catalan_language -> Endonym -> Greek_language
-Failure:  Yunganglong -> Extinct -> Organism -> Biology
-Failure:  Lie%C5%A1%C5%A5any -> Hungarian_language -> Uralic_language -> Language_family -> Language
-Failure:  Walsingham_Rural_District -> Rural_district -> Local_government -> Public_administration -> Public_policy -> Government
-Failure:  Pranav_Sivakumar -> United_States
-Failure:  List_of_statues_in_Yerevan -> Yerevan -> Help:Pronunciation_respelling_key
-Failure:  Legal_treatise -> Legal_publication -> Book -> Information -> Uncertainty -> Epistemology -> Greek_language
-Failure:  New_South_Wales_Typographical_Association -> Australia -> Sovereign_state
-Failure:  King_of_Romania -> Romanian_language -> Balkan_Romance_languages -> Romance_languages
-Failure:  K_College -> Further_education -> United_Kingdom -> Sovereign_state
-Failure:  Brittin
-Failure:  Daehaeng -> Korean_Seon -> Korean_language -> Languages_of_East_Asia -> Language_families -> Language
-Failure:  Spaccacuore -> Samuele_Bersani -> Rimini -> Help:Pronunciation_respelling_key
-Failure:  Linari
-Failure:  Semper_Femina -> Laura_Marling -> Folk_music -> Folk_revival -> Josh_White -> Southern_United_States -> List_of_regions_of_the_United_States#Official_regions_of_the_United_States -> Office_of_Management_and_Budget -> Executive_Office_of_the_President_of_the_United_States -> List_of_federal_agencies_in_the_United_States -> Government_agency -> Machinery_of_government -> Government
-Failure:  Barter_Theatre -> Abingdon,_Virginia -> Town -> Human_settlement -> Geography -> Ancient_Greek
-Failure:  2000%E2%80%9301_Slovenian_PrvaLiga
-Failure:  Vemulapally,_Telangana -> Nalgonda_district -> District -> Administrative_division
-Failure:  Acrocercops_melantherella -> Moth
-Failure:  The_Shepherd%27s_Life -> James_Rebanks -> Matterdale -> Civil_parishes_in_England -> Parish_(administrative_division) -> Administrative_division
-Failure:  Ptolemaic_graph -> Graph_theory -> Mathematics -> Ancient_Greek
-~~~ Path Found:  Luiz_Ot%C3%A1vio -> Association_football -> Team_sport -> Sport -> Competition -> Goal -> Idea -> Philosophy
-Failure:  Chiuzbaia -> Hungarian_language
-Loop Failure:  Haematococcus_pluvialis -> Chlorophyta -> Prasinophyte -> Tetraphytina -> Chlorophyta
-Loop Failure:  Kirkton,_Dundee -> Dundee -> Scots_language -> Scottish_Gaelic_language -> Scottish_Gaelic_language
-Failure:  List_of_GetBackers_characters -> Germans -> German_language -> West_Germanic_languages -> Germanic_languages -> Indo-European_languages -> Language_family
-Failure:  The_Private_Lives_of_Elizabeth_and_Essex -> Historical_drama -> Historical_fiction -> Setting_(narrative) -> Time -> Sequence -> Mathematics
-Failure:  Children,_Go_Where_I_Send_Thee -> African-American -> Ethnic_group -> Identity_(social_science) -> Self-identity -> Belief -> Attitude_(psychology) -> Psychology
-~~~ Path Found:  Marcelino_Solis -> Professional_baseball -> Baseball -> Bat-and-ball_games -> Playing_field -> Sport -> Competition -> Goal -> Idea -> Philosophy
-Failure:  Radomierowice -> German_language
-Failure:  Lansdowne,_India -> Cantonment -> French_language -> Romance_languages
-Failure:  Wollensak -> United_States
-Failure:  List_of_selective_high_schools_in_New_South_Wales -> Selective_High_Schools_Test -> New_South_Wales -> States_and_territories_of_Australia -> Australia
-Failure:  Grameen_Bank -> Bengali_language -> Endonym
-Failure:  Fred_Quine -> Australia
-Failure:  Tassie_(surname)
-Failure:  Mukden_Arsenal_Mauser -> Mauser_Model_1904#Chinese_variants -> Gewehr_98 -> Bolt_action -> Firearm_action -> Firearms -> Gun -> Ranged_weapon -> Weapon -> Hunting -> Wildlife -> Animal -> Multicellular -> Organism
-Failure:  Jamestown,_California -> Census-designated_place -> Place_(United_States_Census_Bureau) -> United_States_Census_Bureau -> Federal_Statistical_System_of_the_United_States -> Federal_government_of_the_united_states -> Federation#Federal_governments -> Political_entity
-Failure:  Magalang -> Kapampangan_language -> Austronesian_language -> Language_family
-Loop Failure:  Mary_of_Egypt -> Coptic_language -> Egyptian_language -> Coptic_language
-Failure:  Roman_Catholic_Diocese_of_Modigliana -> Roman_Catholic -> List_of_Christian_denominations_by_number_of_members -> Christian_denomination -> Religion -> Social_system -> Sociology -> Society
-Failure:  Tom_Mix -> Western_(genre) -> Genre -> French_language
-Failure:  Join_or_Die_with_Craig_Ferguson -> Panel_show -> Radio_broadcasting -> Audio_signal -> Sound -> Physics
-Failure:  Jes%C3%BAs_Baldaccini -> Argentinian_people -> Spanish_language
-~~~ Path Found:  1987%E2%80%9388_Ranji_Trophy -> Ranji_Trophy -> First-class_cricket -> Cricket -> Bat-and-ball_games -> Playing_field -> Sport -> Competition -> Goal -> Idea -> Philosophy
-Failure:  Karoo_Moose -> South_Africa -> Africa -> Continent -> Landmass -> Region -> Geography
-Failure:  Labdia_tristoecha -> Moth
-Failure:  Jalali_(tribe) -> Persian_language -> Exonym_and_endonym -> Greek_language
-Failure:  Canton_of_Toulouse-3 -> Haute-Garonne -> Occitan_language -> French_language
-Failure:  Les_Cerqueux-sous-Passavant -> Communes_of_France -> Administrative_divisions -> Sovereign_state
-Failure:  Connor_Hotel_(Joplin,_Missouri) -> Beaux-Arts_architecture -> Architectural_style -> Style_(visual_arts) -> Visual_arts
-Failure:  Cape_dory -> Indian_Ocean -> Ocean -> Water -> Inorganic_compound -> Chemical_compound
-Failure:  Lipoteichoic_acid -> Cell_wall -> Cell_(biology) -> Latin
-Loop Failure:  Don_%22Magic%22_Juan -> Pimp -> Prostitute -> Human_sexual_activity -> Human_sexuality -> Human_sexual_activity
-Failure:  Lane_DeGregory -> St._Petersburg_Times -> Newspaper -> Periodical_literature -> Serial_(publishing) -> Publishing -> Book
-Failure:  Heinrich_von_W%C3%BClzburg -> Germany -> German_language
-Failure:  Ingo_Haar -> Germans
-Failure:  Generalov -> Russian_language -> East_Slavic_languages -> Slavic_languages -> Indo-European_languages
-Failure:  Worleston -> Civil_parishes_in_England
-Failure:  Woodstock_1994_(Red_Hot_Chili_Peppers_album) -> Bootleg_recording -> Sound_recording -> Electrical -> Physics
-Failure:  %C3%86thelweald -> Bishop_of_Dunwich_(ancient) -> Episcopal_polity -> Hierarchy -> Ancient_Greek
-Failure:  Theodore_I_Laskaris -> Greek_language
-Failure:  Silliman_Institute -> Segregation_academy -> Private_school -> Non-governmental -> Organization -> English_in_the_Commonwealth_of_Nations -> English_language -> West_Germanic_languages
-Failure:  Corona_(satellite) -> United_States
-~~~ Path Found:  2008_Australian_Manufacturers%27_Championship -> Confederation_of_Australian_Motor_Sport -> Motor_sport -> Sports -> Competition -> Goal -> Idea -> Philosophy
-Failure:  Pageant_(album) -> PWR_BTTM -> Queer -> Umbrella_term -> Linguistics
-Failure:  Muthomi_Njuki -> Tharaka_Nithi_County -> Counties_of_Kenya -> Swahili_language -> Bantu_languages -> Language_family
-Failure:  Shamchaurasi -> Municipal_council -> Legislature -> Deliberative_assembly -> Collective -> Cooperative -> Autonomy -> Developmental_psychology -> Science
-Failure:  First_United_Lutheran_Church -> Evangelical_Lutheran_Church_in_America -> Mainline_Protestant -> Protestantism_in_the_United_States -> Protestantism -> Christianity -> Abrahamic_religions -> Semitic_people -> Historical_race_concepts -> Race_(classification_of_human_beings) -> Human -> Species -> Biology
-Failure:  Organa_(crater) -> Impact_crater -> Depression_(geology) -> Geology -> Ancient_Greek
-Failure:  Pleurodontagama -> Genus -> Taxonomic_rank -> Biological_classification
-Failure:  Cloudera -> United_States
-Failure:  Robert_Lehman -> United_States
-Failure:  Pierre-Antoine_Antonelle -> Jacobin_Club -> French_language
-Failure:  Head_of_the_Prime_Minister%27s_military_cabinet -> Military_of_France -> French_language
-Failure:  Lior%C3%A9_et_Olivier_LeO_20 -> France -> Western_Europe -> Europe -> Continent
-Failure:  James_M._Ideman -> United_States_federal_judge -> United_States
-Failure:  Seilbahn_Zugspitze -> Zugspitze -> Normalh%C3%B6hennull -> Vertical_datum -> Vertical_position -> Position_(mathematics) -> Geometry -> Ancient_Greek_language
-Failure:  Girl_Asleep_(film) -> Surrealist_film -> Dada -> Art_movement -> Art -> Human_behavior
-Failure:  John_Wright_(Missouri_politician) -> Missouri_House_of_Representatives -> Missouri_General_Assembly -> State_legislature_(United_States) -> United_States
-Failure:  Canton_of_Sault -> France
-Failure:  List_of_radio_stations_in_Northern_Region -> Ghana -> Gulf_of_Guinea -> Atlantic_Ocean -> Ocean
-Passes:  7
-Fails:  93
-Longest path:  12
+Loop Failure:  Franco_Luambo -> Music_of_the_Democratic_Republic_of_the_Congo -> Lingala_language -> Bantu_languages -> Language_family -> Language -> Spoken_language -> Language
+Failure:  Zvezditsa,_Varna_Province -> Bulgarian_language -> South_Slavic_languages -> Slavic_languages -> Indo-European_languages -> Language_family
+Failure:  Boronia_inconspicua -> Family_(biology) -> Latin_language -> Classical_language -> Language
+Loop Failure:  Helicine_arteries_of_penis -> Artery -> Greek_language -> Ancient_Greek -> Greek_language
+Failure:  Ziad_Al-Khatib -> Arabic -> Semitic_languages -> Afroasiatic_languages -> Language_family
+Failure:  Soundstreams_Canada -> Toronto -> Provinces_and_territories_of_Canada -> Canada -> North_America -> Continent -> Landmass -> Region -> Geography -> Ancient_Greek
+Failure:  Abgar_Legend -> Christianity -> Abrahamic_religions -> Semitic_people -> Historical_race_concepts -> Race_(classification_of_human_beings) -> Human -> Species -> Biology -> Natural_science -> Branches_of_science -> Science -> Latin -> Classical_language
+Failure:  Prokofi_Akinfiyevich_Demidov -> Akinfiy_Demidov -> Russian_language -> East_Slavic_languages -> Slavic_languages
+~~~ Path Found:  George_Palmer_(Leicestershire_cricketer) -> Cricket -> Bat-and-ball_games -> Playing_field -> Sport -> Competition -> Goal -> Idea -> Philosophy
+Failure:  Maya_High_School -> Phoenix,_Arizona -> Navajo_language -> Southern_Athabaskan_languages -> Athabaskan_languages -> Indigenous_languages_of_the_Americas -> Indigenous_peoples_of_the_Americas -> Americas -> North_America
+Failure:  Belsand_(Vidhan_Sabha_constituency) -> Vidhan_Sabha -> India -> Hindi -> Devanagari -> IAST -> Romanisation -> Linguistics -> Science
+Failure:  Milligan,_California -> San_Bernardino_County,_California -> County_(United_States) -> United_States -> Country -> Territory -> Administrative_division -> Sovereign_state -> Political_entity -> Collective_identity -> Belongingness -> Emotional -> Biological -> Natural_science
+Loop Failure:  Priory_Church,_South_Queensferry -> Scottish_Episcopal_Church -> Scottish_Gaelic_language -> Scottish_Gaelic_language
+Failure:  Connect_Group -> Swindon -> Wiltshire -> Ceremonial_counties_of_England -> England -> Countries_of_the_United_Kingdom -> United_Kingdom -> Sovereign_state
+Failure:  Empire_(EP) -> Metalcore -> Extreme_metal -> Umbrella_term -> Linguistics
+Failure:  Justice_League_Legends -> DC_Comics -> American_comic_book -> Periodical -> Serial_(publishing) -> Publishing -> Book -> Information -> Uncertainty -> Epistemology -> Greek_language
+Failure:  Ted_May -> United_States
+Failure:  Muddy_Bay_(Newfoundland_and_Labrador) -> Labrador -> Newfoundland_and_Labrador -> Provinces_and_territories_of_Canada
+Failure:  Morgan_McMichaels -> Stage_name -> Pseudonym -> Orthonym -> Etymology -> History -> Ancient_Greek
+Failure:  Iron_Triangle_of_Health_Care -> William_Kissick -> Professor -> Academy -> Attic_Greek -> Greek_language
+~~~ Path Found:  Connew -> Formula_One -> Auto_racing -> Motorsport -> Sports -> Competition -> Goal -> Idea -> Philosophy
+Failure:  Pseudischnocampa_diluta -> Moth -> Paraphyly -> Taxonomy_(general) -> Categorization -> Experience -> Consciousness -> Sentience -> Feeling -> Nominalization -> Linguistics
+Failure:  Afonso_Cunha -> Municipalities_of_Brazil -> Portuguese_language -> Romance_languages -> Vulgar_Latin -> Sociolect -> Sociolinguistics -> Society -> Social_group -> Social_science -> Branches_of_science
+Failure:  Reg_Morelli -> Centre_(ice_hockey) -> United_States
+Failure:  Oliveto_Lario -> Lecchese -> Western_Lombard_language -> Lombard_language -> Northern_Italy -> Italian_language -> Romance_languages
+Failure:  Abraxas_membranacea -> Moth
+Failure:  G%C3%A1bor_Ugron -> Hungary -> Hungarian_language -> Uralic_language -> Language_family
+Failure:  2006_South_American_Rugby_Championship_%22B%22 -> Caracas -> Venezuela -> Continent
+Failure:  Glyphostoma_cara -> Sea_snail -> Common_name -> Biology
+Failure:  Cursa_de_Bombers -> Road_running -> Running -> Terrestrial_locomotion -> Evolution -> Heredity -> Phenotypic_trait -> Phenotype -> Greek_language
+Failure:  Tamanna_Nusrat_Bubly -> Bangladesh_Awami_League -> Bengali_language -> Endonym -> Greek_language
+Failure:  Casalserugo -> Province_of_Padua -> Provinces_of_Italy -> Italian_language
+Failure:  The_One_and_Only_(TV_series) -> Talent_contest -> Performing_arts -> Visual_arts -> Painting -> Paint -> Liquid -> Compressibility -> Thermodynamics -> Physics -> Ancient_Greek_language -> Greek_language
+Failure:  Jack_in_the_Green:_Live_in_Germany_1970%E2%80%931993 -> United_Kingdom
+Failure:  List_of_dams_and_reservoirs_in_Washington -> King_County,_Washington -> U.S._state -> United_States
+Failure:  Quillback_rockfish -> Sebastidae -> Scorpaeniformes -> Actinopterygii -> New_Latin -> List_of_revived_languages -> Language_revitalization -> Dead_language -> Language
+Failure:  Sam_Karunaratne -> Institution_of_Engineering_and_Technology -> Institution_of_Electrical_Engineers -> United_Kingdom
+Failure:  Hanna_Marin -> Sara_Shepard -> Freeform_(TV_channel) -> Basic_cable -> Cable_television -> Television -> Telecommunication -> Information
+Failure:  Nazi%E2%80%93Soviet_economic_relations_(1934%E2%80%931941) -> Adolf_Hitler%27s_rise_to_power -> Weimar_Republic -> German_language -> West_Germanic_languages -> Germanic_languages -> Indo-European_languages
+~~~ Path Found:  Psychedelic_trance -> Trance_music -> Electronic_music -> Music -> The_arts -> Creativity -> Idea -> Philosophy
+Failure:  Vagif_Javadov -> Azerbaijani_language -> Turkic_languages -> Language_family
+Failure:  Pandanus_distentus -> Gesneriaceae -> Family_(biology)
+Failure:  Michelle_MacLaren -> Primetime_Emmy_Award -> Academy_of_Television_Arts_%26_Sciences -> Television_in_the_United_States -> Television
+Failure:  Boeuf_River -> Ouachita_River -> United_States
+Failure:  Aleksandra_Pankina -> Belarusian_language -> East_Slavic_language -> Slavic_languages
+Failure:  Coleophora_alticolella -> Moth
+Failure:  Lake_Weohyakapka -> Polk_County,_Florida -> County_(United_States)
+Failure:  Let%27s_Make_the_Teacher_Have_a_Miscarriage_Club -> Thriller_film -> Film_genre -> Genre -> French_language -> Romance_languages
+Loop Failure:  Gerald_Bowden -> Conservative_Party_(UK) -> Political_party -> Candidate -> Nomination -> Candidate
+Failure:  1st_BRIC_summit -> Yekaterinburg -> Romanization_of_Russian -> Transliteration -> Letter_(alphabet) -> Symbol -> Word -> Linguistics
+Loop Failure:  2017_Badminton_Asia_Junior_Championships_-_Boys%27_singles -> 2017_Asian_Junior_Badminton_Championships -> Jakarta -> Indonesian_language -> Indonesia -> Indonesian_language
+Failure:  The_Don_Juans -> Czech_language -> Latin
+Failure:  Tyler_Hinman -> Crossword -> Puzzle -> Game -> Play_(activity) -> Recreational -> Leisure -> Time -> Sequence -> Mathematics -> Ancient_Greek
+Failure:  List_of_trails_in_Park_County,_Wyoming -> U.S._Geological_Survey -> Government_agency -> Machinery_of_government -> Government -> State_(polity) -> Polity -> Collective_identity
+Failure:  Rudolf_Bachmann -> Westheim -> Municipalities_of_Germany -> German_language
+~~~ Path Found:  Bill_Bendle -> Australian_rules_football -> Football -> Team_sport -> Sport -> Competition -> Goal -> Idea -> Philosophy
+Failure:  William_Gedney -> Documentary_photographer -> Professional -> Profession -> Education -> Learning -> Understanding -> Psychological -> Science
+Failure:  Katia_Ricciarelli -> Soprano -> Classical_music -> Art_music -> High_culture -> Culture -> Social_behavior -> Behavior -> American_English -> Variety_(linguistics) -> Sociolinguistics
+Failure:  Torrelapaja -> Zaragoza_(province) -> English_language -> West_Germanic_languages
+Failure:  Queenstown_Stadium -> Queenstown,_Singapore -> Planning_Areas_of_Singapore -> Singapore -> Sovereign_state
+~~~ Path Found:  Italy_1990_(video_game) -> Soccer -> Team_sport -> Sport -> Competition -> Goal -> Idea -> Philosophy
+Failure:  Yakiv_Stepovy -> Ukrainian_language -> East_Slavic_languages
+Failure:  Luis_Qui%C3%B1onez -> Guatemala -> Central_America -> Spanish_language -> Romance_languages
+Failure:  Bruno_Matykiewicz -> Poles_in_Zaolzie -> Polish_language -> West_Slavic_languages -> Slavic_languages
+Failure:  Goulds_Fork_(Brown_Creek_tributary) -> Brown_Creek_(Pee_Dee_River_tributary) -> Tributary -> Stream -> Body_of_water -> Water -> Inorganic_compound -> Chemical_compound -> Chemical_substance -> Matter -> Classical_physics -> Physics
+Failure:  Fenn_Farm -> Middlebury,_Vermont -> County_seat -> Administrative_center -> Local_government -> Public_administration -> Public_policy -> Government
+Failure:  Ay_Ot_Lookout -> Villa -> Ancient_Rome -> Historiography -> Historian -> Recorded_history -> History
+Failure:  Villa_College -> University_of_the_West_of_England -> Public_university -> University -> Latin_language
+Failure:  Little_York,_Ohio -> Butler_Township,_Montgomery_County,_Ohio -> Civil_township -> Local_government
+~~~ Path Found:  Travis_Payze -> Australian_rules_football -> Football -> Team_sport -> Sport -> Competition -> Goal -> Idea -> Philosophy
+Loop Failure:  Jian_Zhou -> Chinese_language -> Simplified_Chinese_characters -> Chinese_characters -> Simplified_Chinese_characters
+Failure:  Densar_Mowladad -> Persian_language -> Exonym_and_endonym -> Greek_language
+~~~ Path Found:  Abdelmalek_Slahdji -> Handball -> Team_sport -> Sport -> Competition -> Goal -> Idea -> Philosophy
+~~~ Path Found:  Shark_Island_(band) -> Hard_rock -> Rock_music -> Popular_music -> Music -> The_arts -> Creativity -> Idea -> Philosophy
+Failure:  Vellarimala -> Kerala -> Malabar_Coast -> Indian_subcontinent -> Physical_geography -> Geography
+Failure:  Magnus_Persson_Atlevi -> List_of_Swedish_professional_golfers -> Sweden -> Swedish_language -> North_Germanic_languages -> Germanic_languages
+Failure:  Miyamairi -> Shinto -> Religion -> Social_system -> Sociology -> Society
+Failure:  Cube_(talent_agency) -> Japan -> Japanese_language -> East_Asian_language -> Language_families -> Language
+Failure:  2003_CART_season -> Champ_Car -> Governing_body -> Governance -> Government
+Failure:  Champ_Pickens_Trophy -> Champ_Pickens -> Alabama_Crimson_Tide_football -> University_of_Alabama -> Public_university
+Failure:  Battle_of_the_Elleporus -> Dionysius_I_of_Syracuse -> Greeks -> Greek_language
+Failure:  Rensch
+Failure:  Neolaphygma -> Genus -> Taxonomic_rank -> Biological_classification -> Biology
+Failure:  Sizang_language -> Kuki-Chin_languages -> Sino-Tibetan_languages -> Language_family
+Failure:  Danny_Wood -> United_States
+Failure:  High_Road_to_Taos -> Sangre_de_Cristo_Mountains -> Spanish_language
+Failure:  Clyde_Nelson_Friz -> Architect -> Professional_requirements_for_architects -> Internship -> Non-profit_organization -> Tax_exemption -> Charitable_organizations -> Philanthropy -> Public_good_(economics) -> Economics -> Social_science
+Failure:  1556_in_art
+Failure:  Nagaragere,_Gauribidanur -> Karnataka -> ISO_15919 -> List_of_ISO_romanizations -> ISO_standard -> International_standard -> Technical_standards -> Norm_(social) -> Acceptance -> Human
+Failure:  Acorn_School_District -> Acorn,_Arkansas -> Unincorporated_area -> Municipal_corporation -> Local_government
+Failure:  Mural_(film) -> Simplified_Chinese_characters
+~~~ Path Found:  Laval_Short -> American_football -> Team_sport -> Sport -> Competition -> Goal -> Idea -> Philosophy
+Loop Failure:  Brickhouses -> Cheshire -> Welsh_language -> Brittonic_languages -> Welsh_language
+Failure:  Inani_Beach -> Bengali_language
+Failure:  Kah_Kyung_Cho -> Phenomenology_(philosophy) -> Ancient_Greek
+Failure:  Jean_Cottard -> Fort_Carr%C3%A9 -> Antibes -> Proven%C3%A7al_dialect -> Occitan_language -> French_language
+Failure:  Athletics_at_the_2000_Summer_Paralympics_%E2%80%93_Men%27s_100_metres_T46 -> Stadium_Australia -> Multi-purpose_stadium -> Stadium -> Pausanias_of_Athens -> Greek_language
+Failure:  Barumbado -> 1990_in_film -> Universal_Studios -> Film_studio -> Studio -> Artist -> Art -> Human_behavior -> Energy_(psychological) -> Psychology -> Science
+Failure:  Ricoh -> Multinational_corporation -> Corporation -> Company -> Legal_personality -> Law -> System -> Interaction -> Causality -> Event_(relativity) -> Physics
+Failure:  List_of_cities,_towns,_and_villages_in_Slovenia:_P -> City -> Human_settlement -> Geography
+Passes:  9
+Fails:  91
+Longest path:  10
 
 Frequencies of the last page in the chain:
-Language :  3
-Science :  4
-Linguistics :  2
-Philosophy :  7
-Branches_of_science :  1
-Ancient_Greek :  5
-Administrative_division :  3
+Language :  4
+Language_family :  5
+Greek_language :  9
+Ancient_Greek :  4
+Classical_language :  1
+Slavic_languages :  3
+Philosophy :  9
+North_America :  1
+Science :  3
 Natural_science :  1
-Collective_identity :  1
-Sociolinguistics :  1
-Greek_language :  5
-Theatre :  1
-Physics :  4
-Biology :  2
-Government :  2
-United_States :  7
-Help:Pronunciation_respelling_key :  2
-Sovereign_state :  3
-Romance_languages :  2
-Brittin :  1
-Linari :  1
-2000%E2%80%9301_Slovenian_PrvaLiga :  1
-Moth :  2
-Hungarian_language :  1
-Chlorophyta :  1
 Scottish_Gaelic_language :  1
-Language_family :  3
-Mathematics :  1
-Psychology :  1
-German_language :  2
-Australia :  2
-Endonym :  1
-Tassie_(surname) :  1
-Organism :  1
-Political_entity :  1
-Coptic_language :  1
-Society :  1
-French_language :  4
-Spanish_language :  1
-Geography :  1
-Visual_arts :  1
-Chemical_compound :  1
-Latin :  1
-Human_sexual_activity :  1
-Book :  1
-Germans :  1
-Indo-European_languages :  1
-Civil_parishes_in_England :  1
-West_Germanic_languages :  1
-Biological_classification :  1
+Sovereign_state :  2
+Linguistics :  3
+United_States :  5
+Provinces_and_territories_of_Canada :  1
+Branches_of_science :  1
+Romance_languages :  3
+Moth :  2
 Continent :  1
-Ancient_Greek_language :  1
-Human_behavior :  1
-France :  1
-Ocean :  1
+Biology :  2
+Italian_language :  1
+United_Kingdom :  2
+Information :  1
+Indo-European_languages :  1
+Family_(biology) :  1
+Television :  1
+County_(United_States) :  1
+Candidate :  1
+Indonesian_language :  1
+Latin :  1
+Collective_identity :  1
+German_language :  1
+Sociolinguistics :  1
+West_Germanic_languages :  1
+East_Slavic_languages :  1
+Physics :  2
+Government :  2
+History :  1
+Latin_language :  1
+Local_government :  2
+Simplified_Chinese_characters :  2
+Geography :  2
+Germanic_languages :  1
+Society :  1
+Public_university :  1
+Rensch :  1
+Spanish_language :  1
+Social_science :  1
+1556_in_art :  1
+Human :  1
+Welsh_language :  1
+Bengali_language :  1
+French_language :  1
